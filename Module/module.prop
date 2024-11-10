@@ -4,3 +4,4 @@ version=v1.0
 versionCode=100
 author=Mehrab Mahmud Udoy
 description=Adds Photos features and unlimited original backup.
+updateJson=https://raw.githubusercontent.com/rimehrab/systemless-hosts-apatch-module/main/update.json
